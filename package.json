@@ -20,7 +20,7 @@
 
   "dependencies": {
 
-    "minecraft-data": "^2.65.0",
+    "minecraft-data": "^2.86.0",
 
     "mineflayer": "^2.28.1",
 
